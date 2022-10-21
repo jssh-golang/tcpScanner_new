@@ -1,0 +1,6 @@
+www.baidu.com:80
+x.acbc.cf:443
+x.acbc.cf:80
+x.ulovei.tk:443
+x.ulovei.tk:80
+127.0.0.1:8011
